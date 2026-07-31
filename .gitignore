@@ -1,8 +1,25 @@
+# ROS 2
 build/
 install/
 log/
 
-*.pyc
+# Python
 __pycache__/
+*.pyc
+
+# VS Code
 .vscode/
+
+# JetBrains
 .idea/
+
+# Linux
+*.swp
+*~
+
+# Environment
+.env
+
+# Generated files
+*.bag
+*.db3
