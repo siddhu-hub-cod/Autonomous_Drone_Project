@@ -22,4 +22,6 @@ __pycache__/
 
 # Generated files
 *.bag
-*.db3software/PX4-Autopilot/
+*.db
+
+software/PX4-Autopilot/
