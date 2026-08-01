@@ -25,3 +25,4 @@ __pycache__/
 *.db
 
 software/PX4-Autopilot/
+software/QGroundControl-x86_64.AppImage
